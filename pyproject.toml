@@ -1,0 +1,7 @@
+[project]
+name = "axe"
+version = "0.1.0"
+description = "An EVM CLI Tool built in Python"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
